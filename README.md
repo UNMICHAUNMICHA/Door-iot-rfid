@@ -20,8 +20,7 @@ otp สุ่มทุกครั้งที่มีการใช้ไป�
 ![enter image description here](https://github.com/UNMICHAUNMICHA/Door-iot-rfid/blob/main/Screenshot%202024-08-02%20132858.png?raw=true)
 เช็คได้ว่าใครเข้ามา 
 
-
 # Tool 
-	- Python fast api
-	- C arduino
-	- Mysql
+ - Python fast api
+ -  C arduino
+ - Mysql
